@@ -28,11 +28,11 @@ while(usuario != "pepito"){
 }
     alert("bienvenido")
 
-*/
+
+nsdfn
 
 
 
-/*
 alert
 
 let moneda = prompt("ingrese el nombre de la moneda");

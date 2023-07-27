@@ -14,7 +14,7 @@ let edad = prompt("ingrese su edad");
     if (nombre != "" && apellido != "" && direccion != "" && celular != "" && mail != "" && edad != "") {
     alert(`Hola ${nombre} ${apellido} en la ${direccion} se realizara su entrega, cuando arrive el pedido se lo llamara a su celular ${celular} Bienvenido a La pizzeria di Gilma`);
         } else {
-    alert("Gracias por confiar en nosotros a continuacion elija que clase de pizza o combo quiere");
+    alert("Gracias por confiar en nosotros a continuacion puede elegir entre todas estas");
 }
 
 let pizzas = prompt("Ingrese el codigo de la moneda");
