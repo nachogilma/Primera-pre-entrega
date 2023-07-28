@@ -5,17 +5,23 @@ let nombre = prompt("ingrese el nombre");
 
 let apellido = prompt("ingrese el apellido");
 
-let direccion = prompt("ingrese la direccion")
+let direccion = prompt("ingrese la direccion");
 
-while(isNaN(variableDelNumero)){
-    prompt = "Ingrese el número de celular"
-    }
+let celular = prompt("ingrese su numero telefonico porfavor"); 
+    do{
+    } while(isNaN);
+
+    let repetir = false;
+
+    while (repetir) {
+        console.log("Numero telefonico ingresado correctamente");
+        }
+
 
 let mail = prompt("ingrese su email");
 
 let edad = prompt("ingrese su edad");
 
-//let celular = prompt("ingrese su numero telefonico");
 
 //${mail} ${edad}
 
