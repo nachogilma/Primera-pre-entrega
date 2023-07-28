@@ -2,12 +2,20 @@
 alert("Al ser la primera vez que se crea su usuario se le solicitan nombre y apellido , celular , mail y edad asi posee la posibilidad de ganarse beneficios para su proxima compra");
 
 let nombre = prompt("ingrese el nombre");
+
 let apellido = prompt("ingrese el apellido");
+
 let direccion = prompt("ingrese la direccion")
-let celular = prompt("ingrese su numero telefonico");
+
+while(isNaN(variableDelNumero)){
+    prompt = "Ingrese el número de celular"
+    }
+
 let mail = prompt("ingrese su email");
+
 let edad = prompt("ingrese su edad");
 
+//let celular = prompt("ingrese su numero telefonico");
 
 //${mail} ${edad}
 
