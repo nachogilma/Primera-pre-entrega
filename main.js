@@ -30,7 +30,7 @@ if(respuesta === '1' ){
     let individual = prompt(" 1) Pizza muzzarela 3500$   2) Pizza cuatro quesos 3700$   3) Pizza fugazzeta 3700$  4) Pizza cuatro estaciones 3800$  5) Pizza con champiñones 3700$    6) Pizza Napolitana 3650$")
     //codigo a ejecutar cuando la condicion1 sea verdadera
     
-   /* if (respuesta === '1') {
+    /* if (respuesta === '1') {
         alert("usted a agregado una pizza muzzarela total a pagar 3500$")
     }
 
