@@ -27,7 +27,7 @@ alert ("oprima aceptar para dirigirse a la compra")
 
 let precio= 0;
 let produc = "Pizzas";
-let productos = "algo";
+//let productos = "algo";
 do{
     productos = parseInt(prompt ("Elige unas de las siguientes Pizzas colocando su número (todas nuestras pizzas estan elaboradas en hornos de barro):\n1) Triple (salsa de tomate y muzzarella 3000$) \n2) Real (salsa de tomate ,muzzarella y morrones 3400$) \n3) Real con jamon (Salsa de tomate ,jamon ,muzzarella y morrones 3400$) \n4) La pizza de di gilma (salsa de tomate , cebolla ,muzzarella ,morrones ,perejil y oregano 3800$) \n5) Cuatriple (salsa de tomate y doble muzzarella 3400$) \n6) Jamon (salsa de tomate ,muzzarella y jamon 3600$) \n7) Panceta (salsa de tomate ,muzzarella ,panceta y cebolla de verdeo 3800$) \n8) Provolone (Salsa de tomate ,muzzarella y provolone 3800$) \n9) Anchoas (Salsa de tomate y anchoas 3400$) \n10) Roquefort (Salsa de tomate , muzzarella y roquefort 3600$)"))
 
@@ -107,11 +107,11 @@ function mostrar (mensaje){
 multiplicar(precio, unidades);
 mostrar(resultado)
 
-let filtro = "algo"
+//let filtro = "algo"
 
-let resultadoFinal = "algo"
+//let resultadoFinal = "algo"
 
-let final = "algo"
+//let final = "algo"
 
 alert("su resultado con iva incluido hasta el momento es de $" + resultado * 1.21)
 
