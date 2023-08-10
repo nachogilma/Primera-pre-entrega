@@ -118,3 +118,19 @@ alert("su resultado con iva incluido hasta el momento es de $" + resultado * 1.2
 alert(`Hola ${nombre} en la ${direccion} se realizara su entrega, cuando arribe el pedido se lo llamara a su celular ${celular} Bienvenido a La pizzeria di Gilma`);
 
 alert("su pedido arribarà en los proximos 30 minutos")
+
+/*
+let saludo = document.getElementById("saludo");
+let seccion = prompt("Ingrese la seccion que desea entrar");
+
+if (seccion === "carrito") {
+saludo.innerHTML = "Bienvenido al carrito";
+saludo.className = "rojo";
+} else if (seccion === "favoritos") {
+saludo.innerHTML = "Bienvenido a los favoritos";
+saludo.className = "azul";
+} else {
+saludo.innerHTML = "Bienvenido a nuestra super página";
+saludo.className = "verde";
+}
+*/
